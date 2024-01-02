@@ -1,2 +1,2 @@
 ﻿# Animated-Car-Landing-Page
-<img src="image">
+<img src="View.png">
